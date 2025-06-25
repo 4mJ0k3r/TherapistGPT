@@ -62,6 +62,7 @@ pydeck==0.9.1
 pygame==2.6.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
+pywin32==310
 pytz==2025.2
 PyYAML==6.0.2
 qdrant-client==1.14.3
